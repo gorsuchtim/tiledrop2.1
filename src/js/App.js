@@ -1,10 +1,10 @@
 import React from "react";
-import Background from "@js/Components/Background/Background";
+import TitleScreen from "@js/Components/TitleScreen/TitleScreen";
 
 const App = () => {
   return (
     <div>
-      <Background />
+      <TitleScreen />
     </div>
   );
 };
