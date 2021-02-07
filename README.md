@@ -1,2 +1,3 @@
-# tiledrop2.1
-Using new react project template for the game
+# Tiledrop - React
+
+React component based version of the tile drop game
